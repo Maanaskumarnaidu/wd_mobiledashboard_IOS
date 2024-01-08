@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A260B026-F9B3-412A-9225-B627446DD50A"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A5BB908-B5C5-44B7-ADFA-996C41964997"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newloginPageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "sendotpActionBtn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "284D2434-51A2-4595-899D-C2DEAB58C28A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomePageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4224"
+            endingLineNumber = "4224"
+            landmarkName = "leadsaginglistServiceCall()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "284D2434-51A2-4595-899D-C2DEAB58C28A - f89bfb8cbbd57db7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;wisedrivedashboard.JSON&gt;, Swift.Bool) -&gt; () in wisedrivedashboard.newhomePageVC.leadsaginglistServiceCall() -&gt; ()"
+                  moduleName = "wisedrivedashboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maanaskumar/Desktop/wisedrivedashboard/wisedrivedashboard/newhomePageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "3730"
+                  endingLineNumber = "3730"
+                  offsetFromSymbolStart = "1460">
+               </Location>
+               <Location
+                  uuid = "284D2434-51A2-4595-899D-C2DEAB58C28A - f89bfb8cbbd57db7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;wisedrivedashboard.JSON&gt;, Swift.Bool) -&gt; () in wisedrivedashboard.newhomePageVC.leadsaginglistServiceCall() -&gt; ()"
+                  moduleName = "wisedrivedashboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maanaskumar/Desktop/wisedrivedashboard/wisedrivedashboard/newhomePageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "3730"
+                  endingLineNumber = "3730"
+                  offsetFromSymbolStart = "1712">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C35D37C8-D100-40A5-BAA8-6E02A31FDD11"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomePageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2680"
+            endingLineNumber = "2680"
+            landmarkName = "totalsaleslistServiceCall()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B0FD46A-E028-4B43-8DB9-56B94F3820B1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomePageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1310"
+            endingLineNumber = "1310"
+            landmarkName = "lastmonthActionBtn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0283D31-D45C-40A9-99B1-660F9F8BD3BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomePageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5506"
+            endingLineNumber = "5506"
+            landmarkName = "statusBtnAction(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57A8F1B5-D18B-41F2-9D43-94E978990C3D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomePageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4204"
+            endingLineNumber = "4204"
+            landmarkName = "leadsaginglistServiceCall()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "57A8F1B5-D18B-41F2-9D43-94E978990C3D - 3227133e0d56e84d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wisedrivedashboard.newhomePageVC.leadsaginglistServiceCall() -&gt; ()"
+                  moduleName = "wisedrivedashboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maanaskumar/Desktop/wisedrivedashboard/wisedrivedashboard/newhomePageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4029"
+                  endingLineNumber = "4029"
+                  offsetFromSymbolStart = "1996">
+               </Location>
+               <Location
+                  uuid = "57A8F1B5-D18B-41F2-9D43-94E978990C3D - f89bfb8cbbd554c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;wisedrivedashboard.JSON&gt;, Swift.Bool) -&gt; () in wisedrivedashboard.newhomePageVC.leadsaginglistServiceCall() -&gt; ()"
+                  moduleName = "wisedrivedashboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maanaskumar/Desktop/wisedrivedashboard/wisedrivedashboard/newhomePageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4031"
+                  endingLineNumber = "4031"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C30389B1-7E74-454E-AF37-63C981C3856B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newdataofallpackagesPageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "632E1620-8FE8-4B3C-88D4-10A0B61EA4B7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newdataofallpackagesPageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE6DDA06-74E6-42B8-B2AE-6E670E9670C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newdataofallpackagesPageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EEF08FA5-9EF8-40C4-8E8E-AD4CBDD02762"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newdataofallpackagesPageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B15E6417-0853-467E-B5B1-01D6C9BE95B9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newdataofallpackagesPageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF035951-E4FF-4ED7-B7C5-8E9D156A93FF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomedashboardpageVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2207"
+            endingLineNumber = "2207"
+            landmarkName = "inspectiontypelistServiceCall()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9D769C4-8785-40F7-951A-51FC3A70BF35"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomedashboardpageVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3794"
+            endingLineNumber = "3794"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A427B57A-ED11-4B77-81A6-01140AA638DB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomedashboardpageVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2177"
+            endingLineNumber = "2177"
+            landmarkName = "inspectiontypelistServiceCall()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A427B57A-ED11-4B77-81A6-01140AA638DB - c784acc2bc22915c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wisedrivedashboard.newhomedashboardpageVc.inspectiontypelistServiceCall() -&gt; ()"
+                  moduleName = "wisedrivedashboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maanaskumar/Desktop/wisedrivedashboard/wisedrivedashboard/newhomedashboardpageVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1511"
+                  endingLineNumber = "1511"
+                  offsetFromSymbolStart = "2704">
+               </Location>
+               <Location
+                  uuid = "A427B57A-ED11-4B77-81A6-01140AA638DB - be4b3b18cc2137d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;wisedrivedashboard.JSON&gt;, Swift.Bool) -&gt; () in wisedrivedashboard.newhomedashboardpageVc.inspectiontypelistServiceCall() -&gt; ()"
+                  moduleName = "wisedrivedashboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maanaskumar/Desktop/wisedrivedashboard/wisedrivedashboard/newhomedashboardpageVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1513"
+                  endingLineNumber = "1513"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "162172C9-1FCB-491F-AA57-D8555F11C068"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomedashboardpageVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2201"
+            endingLineNumber = "2201"
+            landmarkName = "inspectiontypelistServiceCall()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "162172C9-1FCB-491F-AA57-D8555F11C068 - d53259c8b8a189c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (wisedrivedashboard.JSON) -&gt; () in closure #1 (Alamofire.DataResponse&lt;wisedrivedashboard.JSON&gt;, Swift.Bool) -&gt; () in wisedrivedashboard.newhomedashboardpageVc.inspectiontypelistServiceCall() -&gt; ()"
+                  moduleName = "wisedrivedashboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maanaskumar/Desktop/wisedrivedashboard/wisedrivedashboard/newhomedashboardpageVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1535"
+                  endingLineNumber = "1535"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "162172C9-1FCB-491F-AA57-D8555F11C068 - d53259c8b8a189e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (wisedrivedashboard.JSON) -&gt; () in closure #1 (Alamofire.DataResponse&lt;wisedrivedashboard.JSON&gt;, Swift.Bool) -&gt; () in wisedrivedashboard.newhomedashboardpageVc.inspectiontypelistServiceCall() -&gt; ()"
+                  moduleName = "wisedrivedashboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maanaskumar/Desktop/wisedrivedashboard/wisedrivedashboard/newhomedashboardpageVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1536"
+                  endingLineNumber = "1536"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A81C92A-8F35-4C16-A7D5-E310942EE718"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomedashboardpageVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2196"
+            endingLineNumber = "2196"
+            landmarkName = "inspectiontypelistServiceCall()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3A81C92A-8F35-4C16-A7D5-E310942EE718 - be4b3b18cc213a07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;wisedrivedashboard.JSON&gt;, Swift.Bool) -&gt; () in wisedrivedashboard.newhomedashboardpageVc.inspectiontypelistServiceCall() -&gt; ()"
+                  moduleName = "wisedrivedashboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maanaskumar/Desktop/wisedrivedashboard/wisedrivedashboard/newhomedashboardpageVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1530"
+                  endingLineNumber = "1530"
+                  offsetFromSymbolStart = "1420">
+               </Location>
+               <Location
+                  uuid = "3A81C92A-8F35-4C16-A7D5-E310942EE718 - be4b3b18cc213a64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;wisedrivedashboard.JSON&gt;, Swift.Bool) -&gt; () in wisedrivedashboard.newhomedashboardpageVc.inspectiontypelistServiceCall() -&gt; ()"
+                  moduleName = "wisedrivedashboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maanaskumar/Desktop/wisedrivedashboard/wisedrivedashboard/newhomedashboardpageVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1531"
+                  endingLineNumber = "1531"
+                  offsetFromSymbolStart = "1420">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C5D147B-73C1-415B-83DA-8A46036D56F3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomedashboardpageVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2200"
+            endingLineNumber = "2200"
+            landmarkName = "inspectiontypelistServiceCall()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2C5D147B-73C1-415B-83DA-8A46036D56F3 - be4b3b18cc213a9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;wisedrivedashboard.JSON&gt;, Swift.Bool) -&gt; () in wisedrivedashboard.newhomedashboardpageVc.inspectiontypelistServiceCall() -&gt; ()"
+                  moduleName = "wisedrivedashboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maanaskumar/Desktop/wisedrivedashboard/wisedrivedashboard/newhomedashboardpageVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1534"
+                  endingLineNumber = "1534"
+                  offsetFromSymbolStart = "1904">
+               </Location>
+               <Location
+                  uuid = "2C5D147B-73C1-415B-83DA-8A46036D56F3 - d53259c8b8a189c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (wisedrivedashboard.JSON) -&gt; () in closure #1 (Alamofire.DataResponse&lt;wisedrivedashboard.JSON&gt;, Swift.Bool) -&gt; () in wisedrivedashboard.newhomedashboardpageVc.inspectiontypelistServiceCall() -&gt; ()"
+                  moduleName = "wisedrivedashboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maanaskumar/Desktop/wisedrivedashboard/wisedrivedashboard/newhomedashboardpageVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1535"
+                  endingLineNumber = "1535"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "2C5D147B-73C1-415B-83DA-8A46036D56F3 - be4b3b18cc213af8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;wisedrivedashboard.JSON&gt;, Swift.Bool) -&gt; () in wisedrivedashboard.newhomedashboardpageVc.inspectiontypelistServiceCall() -&gt; ()"
+                  moduleName = "wisedrivedashboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maanaskumar/Desktop/wisedrivedashboard/wisedrivedashboard/newhomedashboardpageVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1535"
+                  endingLineNumber = "1535"
+                  offsetFromSymbolStart = "1904">
+               </Location>
+               <Location
+                  uuid = "2C5D147B-73C1-415B-83DA-8A46036D56F3 - d53259c8b8a189e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (wisedrivedashboard.JSON) -&gt; () in closure #1 (Alamofire.DataResponse&lt;wisedrivedashboard.JSON&gt;, Swift.Bool) -&gt; () in wisedrivedashboard.newhomedashboardpageVc.inspectiontypelistServiceCall() -&gt; ()"
+                  moduleName = "wisedrivedashboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maanaskumar/Desktop/wisedrivedashboard/wisedrivedashboard/newhomedashboardpageVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1536"
+                  endingLineNumber = "1536"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89510980-8F03-434A-9688-0D66D3FE1A88"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomedashboardpageVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1253"
+            endingLineNumber = "1253"
+            landmarkName = "leadbysubcategoryServiceCall()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48CC3433-08ED-4148-969B-FE6415375C30"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomedashboardpageVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4406"
+            endingLineNumber = "4406"
+            landmarkName = "listofalldfollowupsstatustablecell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "335FDEAC-DCA6-4553-B0EC-572D8DE43390"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomedashboardpageVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2546"
+            endingLineNumber = "2546"
+            landmarkName = "leadssummarylistServiceCall()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "335FDEAC-DCA6-4553-B0EC-572D8DE43390 - f6df6618fd34d515"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;wisedrivedashboard.JSON&gt;, Swift.Bool) -&gt; () in wisedrivedashboard.newhomedashboardpageVc.leadssummarylistServiceCall() -&gt; ()"
+                  moduleName = "wisedrivedashboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maanaskumar/Desktop/wisedrivedashboard/wisedrivedashboard/newhomedashboardpageVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1889"
+                  endingLineNumber = "1889"
+                  offsetFromSymbolStart = "2372">
+               </Location>
+               <Location
+                  uuid = "335FDEAC-DCA6-4553-B0EC-572D8DE43390 - f6df6618fd34d532"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;wisedrivedashboard.JSON&gt;, Swift.Bool) -&gt; () in wisedrivedashboard.newhomedashboardpageVc.leadssummarylistServiceCall() -&gt; ()"
+                  moduleName = "wisedrivedashboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maanaskumar/Desktop/wisedrivedashboard/wisedrivedashboard/newhomedashboardpageVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1888"
+                  endingLineNumber = "1888"
+                  offsetFromSymbolStart = "2188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B421B243-249F-4C00-83DA-203CD12CBFD0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomedashboardpageVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2434"
+            endingLineNumber = "2434"
+            landmarkName = "leadsummarytypelistServiceCall()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "589FAB2E-8C83-456F-ACFF-1D5F1772647E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomedashboardpageVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1070"
+            endingLineNumber = "1070"
+            landmarkName = "warrantiesActionBtn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "660461B1-98BF-4D80-B48B-5BC27C967B20"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomedashboardpageVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "729"
+            endingLineNumber = "729"
+            landmarkName = "leadsummarytwoActionBtn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64376B08-AD31-4D65-B588-12A7A737E025"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomedashboardpageVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2389"
+            endingLineNumber = "2389"
+            landmarkName = "leadsummarytypelistServiceCall()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "64376B08-AD31-4D65-B588-12A7A737E025 - e42f9769d0890f0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wisedrivedashboard.newhomedashboardpageVc.leadsummarytypelistServiceCall() -&gt; ()"
+                  moduleName = "wisedrivedashboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maanaskumar/Desktop/wisedrivedashboard/wisedrivedashboard/newhomedashboardpageVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2369"
+                  endingLineNumber = "2369"
+                  offsetFromSymbolStart = "2704">
+               </Location>
+               <Location
+                  uuid = "64376B08-AD31-4D65-B588-12A7A737E025 - 67b5db81d8deb9d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;wisedrivedashboard.JSON&gt;, Swift.Bool) -&gt; () in wisedrivedashboard.newhomedashboardpageVc.leadsummarytypelistServiceCall() -&gt; ()"
+                  moduleName = "wisedrivedashboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maanaskumar/Desktop/wisedrivedashboard/wisedrivedashboard/newhomedashboardpageVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2371"
+                  endingLineNumber = "2371"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D1B833A-82C4-4782-ADF4-12C4F7904F8A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomedashboardpageVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2390"
+            endingLineNumber = "2390"
+            landmarkName = "leadsummarytypelistServiceCall()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8D1B833A-82C4-4782-ADF4-12C4F7904F8A - e42f9769d0890f0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wisedrivedashboard.newhomedashboardpageVc.leadsummarytypelistServiceCall() -&gt; ()"
+                  moduleName = "wisedrivedashboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maanaskumar/Desktop/wisedrivedashboard/wisedrivedashboard/newhomedashboardpageVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2369"
+                  endingLineNumber = "2369"
+                  offsetFromSymbolStart = "2704">
+               </Location>
+               <Location
+                  uuid = "8D1B833A-82C4-4782-ADF4-12C4F7904F8A - 67b5db81d8deb9d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;wisedrivedashboard.JSON&gt;, Swift.Bool) -&gt; () in wisedrivedashboard.newhomedashboardpageVc.leadsummarytypelistServiceCall() -&gt; ()"
+                  moduleName = "wisedrivedashboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maanaskumar/Desktop/wisedrivedashboard/wisedrivedashboard/newhomedashboardpageVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2371"
+                  endingLineNumber = "2371"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2A93775-893F-4D12-9EDE-AB7103287364"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomedashboardpageVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1254"
+            endingLineNumber = "1254"
+            landmarkName = "leadbysubcategoryServiceCall()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6352050D-8ACB-48FC-940D-E856A88D28C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomedashboardpageVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "690"
+            endingLineNumber = "690"
+            landmarkName = "leadsummarylastmonthActionBtn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F2549C8-1773-47C4-9322-999AC572708B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomedashboardpageVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "703"
+            endingLineNumber = "703"
+            landmarkName = "leadsummaryoneActionBtn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC4E8A7D-A50E-40D1-A254-7B789B74EF95"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomedashboardpageVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "731"
+            endingLineNumber = "731"
+            landmarkName = "leadsummarytwoActionBtn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53AC49C6-B1CE-4721-88FD-B92EDC5E356C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/newhomedashboardpageVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1526"
+            endingLineNumber = "1526"
+            landmarkName = "totalsaleslistServiceCall()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "53AC49C6-B1CE-4721-88FD-B92EDC5E356C - 9a6690d522912f81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wisedrivedashboard.newhomedashboardpageVc.totalsaleslistServiceCall() -&gt; ()"
+                  moduleName = "wisedrivedashboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maanaskumar/Desktop/wisedrivedashboard/wisedrivedashboard/newhomedashboardpageVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1526"
+                  endingLineNumber = "1526"
+                  offsetFromSymbolStart = "1996">
+               </Location>
+               <Location
+                  uuid = "53AC49C6-B1CE-4721-88FD-B92EDC5E356C - cb9f8f0a7d8292ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;wisedrivedashboard.JSON&gt;, Swift.Bool) -&gt; () in wisedrivedashboard.newhomedashboardpageVc.totalsaleslistServiceCall() -&gt; ()"
+                  moduleName = "wisedrivedashboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maanaskumar/Desktop/wisedrivedashboard/wisedrivedashboard/newhomedashboardpageVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1528"
+                  endingLineNumber = "1528"
+                  offsetFromSymbolStart = "816">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C63E3F9-E179-48A1-95CE-7927EC91075A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/onlygooglempaPageVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "236"
+            endingLineNumber = "236"
+            landmarkName = "viewmapServiceCall()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59AB1918-149E-480C-8F0D-C725EA67C9D7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/onlygooglempaPageVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "893"
+            endingLineNumber = "893"
+            landmarkName = "onlygooglempaPageVc"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84389579-60DF-49ED-AB66-2914E245A715"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/onlygooglempaPageVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "896"
+            endingLineNumber = "896"
+            landmarkName = "onlygooglempaPageVc"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA33BA4C-570B-4EE9-A6F1-A245D9B1E4DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wisedrivedashboard/onlygooglempaPageVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "891"
+            endingLineNumber = "891"
+            landmarkName = "onlygooglempaPageVc"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
